@@ -13,7 +13,7 @@
 бенефициарный владелец именных ценных бумаг: <details><summary>Свидетельство о рождении</summary>
 фамилия <span class="font-violet" style="color:#270fa9"><b>Масленников</b></span><br>
 имя <span class="font-violet" style="color:#270fa9"><b>Евгений</b></span><br>
-отчество <span <span class="font-violet" style="color:#270fa9"><b>Владиславович</b></span><br>
+отчество <span class="font-violet" style="color:#270fa9"><b>Владиславович</b></span><br>
 родился <span class="font-violet" style="color:#270fa9"><b>12 VI 1968 г. двенадцатого июня тысяча девятьсот шестьдесят восьмого</b></span> года<br>
 место рождения ребенка: город <span class="font-violet" style="color:#270fa9"><b>Павлодар</b></span><br>
 о чем в книге записей актов гражданского состояния о рождении <span class="font-violet" style="color:#270fa9"><b>1968</b></span> года <span class="font-violet" style="color:#270fa9"><b>VII</b></span> месяца <span class="font-violet" style="color:#270fa9"><b>10</b></span> числа произведена соответствующая запись за № <span class="font-violet" style="color:#270fa9"><b>1903</b></span> <i>(на основании медицинского свидетельства о живом рождении)</i><br>
