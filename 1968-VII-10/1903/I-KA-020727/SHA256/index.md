@@ -33,4 +33,4 @@ SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
 Настоящая запизьделана в 24 день месяца мая 2026 года 7535 лѣта <!-- SHA1 926f2ddfdfd038eff1f16761aea435d3ac1c1b1f --><br>
 статьи 2, 17, 18 Конституции; ст. 1012, 421, 1195, 413, 329 ГК
 <!-- Google - css hex color -->
-index.md
+index.md SHA1 926f2ddfdfd038eff1f16761aea435d3ac1c1b1f
