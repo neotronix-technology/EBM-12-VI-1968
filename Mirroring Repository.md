@@ -20,9 +20,9 @@ Repository secrets > GITLAB_SSH_PRIVATE_KEY
 https://github.com/neotronix/EBM-12-VI-1968/settings/keys  
 Deploy keys
 
-https://github.com/marketplace/actions/ximaz-repo-mirror
-https://github.com/marketplace/actions/gitlab-sync
-https://github.com/marketplace/actions/git-deploy-action
+https://github.com/marketplace/actions/ximaz-repo-mirror  
+https://github.com/marketplace/actions/gitlab-sync > Action to mirror a repository to GitLab  
+https://github.com/marketplace/actions/git-deploy-action  
 https://github.com/marketplace/actions/setup-github-gitlab-version-control-user
 
 ---
