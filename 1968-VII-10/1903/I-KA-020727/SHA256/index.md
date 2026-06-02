@@ -42,7 +42,7 @@ RWA SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
 
 <div style="background-color:#e6edc5; padding:20px; width:100%; border: 0px solid black;">
 <div style="display:flex; vertical-align:; align-items:flex-end;">
-  <div style="border: 0px solid black; float:left; width:; display:inline-block; vertical-align:;">
+  <div style="border: 0px solid black; float:left; width:; display:block;">
     <div style="text-align:center; text-transform:uppercase; margin-bottom:10px;">Свидетельство о рождении</div>
 фамилия <span class="font-violet">Масленников</span><br>
 имя <span class="font-violet">Евгений</span><br>
