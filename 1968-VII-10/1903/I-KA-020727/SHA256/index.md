@@ -44,7 +44,7 @@ RWA SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
 
 <div style="background-color:#e6edc5; width:100%; border: 0px solid black;">
 <div style="display:flex; flex-wrap:wrap; padding:20px; align-items: flex-end">
-  <div class="box" style="border: 0px solid black; float:left; display:;">
+  <div class="box" style="border: 0px solid black; float:left;">
     <div style="text-align:center; text-transform:uppercase; margin-bottom:10px;">Свидетельство о рождении</div>
 фамилия <span class="font-violet">Масленников</span><br>
 имя <span class="font-violet">Евгений</span><br>
@@ -61,7 +61,7 @@ RWA SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
 <div style="text-align:right;">I-КА № 020727</div>
       </div>
   </div>
-	<div class="font-red" style="width:100%; text-align:center;">Принято за ценность оригинальным бенефициарным владельцем.</div>
+	<div class="font-red" style="width:100%; text-align:center; margin-bottom:20px;">Принято за ценность оригинальным бенефициарным владельцем.</div>
   </div>
   
   <div style="border: 0px solid black; float:; text-align:center;">
