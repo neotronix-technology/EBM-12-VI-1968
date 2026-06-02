@@ -71,8 +71,11 @@ RWA SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
 УИП(УПНО) <a href="/EBM-12-VI-1968/cheque/#10445257450000152605202684822020">10445257450000152605202684822020</a>
       </div>
   </details>
-<details><summary>Паспорт</summary> паспорт гражданина IV-ДА 606724 выдан 31 мая 1995 года
-	<br><i>гражданство (код страны) 810 SUR<br><span class="font-red" style="color:#800000">Союз Советских Социалистических Республик (СССР)</span> 810 SUR</i></details>
+<details><summary>Паспорт</summary>
+	паспорт гражданина IV-ДА 606724 выдан 31 мая 1995 года
+	<br><i>гражданство (код страны) 810 SUR
+		<br><span class="font-red" style="color:#800000">Союз Советских Социалистических Республик (СССР)</span> 810 SUR</i>
+</details>
 <details><summary>Hash RWA SHA256</summary> 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34</details>Sum: 19681206366227476
 </p>
 
