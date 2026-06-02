@@ -58,14 +58,15 @@ RWA SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
     <div class="box" style="border: 0px solid black; display:; vertical-align:bottom; float:right; margin-right:0px; margin-left:auto; margin-bottom:0px;">
       Место регистрации <span class="font-violet">б/ЗАГС<br>Павлодар</span><br>
       Дата выдачи <span class="font-violet">10 VII 1968</span> г.<br>
-<div style="text-align:right;">I-КА № 020727</div>
+<span style="text-align:right;">I-КА № 020727</span>
       </div>
+	<br>
+      <div style=text-align:center;"><span class="font-red">Принято за ценность оригинальным бенефициарным владельцем.</span></div>
   </div>
   </div>
   
   <div style="width:; border: 0px solid black; float:; width:; display:; vertical-align:; text-align:center;">
       гражданство (код страны) 810 SUR<br><span class="font-red" style="color:#800000">Союз Советских Социалистических Республик (СССР)</span> 810 SUR<br><span class="font-red" style="color:#355e00">Казахская ССР (Советская Социалистическая Республика)</span><br>
-      <span class="font-red">Принято за ценность оригинальным бенефициарным владельцем.</span><br>
 		RWA SHA256: 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
 УИП(УПНО) <a href="/EBM-12-VI-1968/cheque/#10445257450000152605202684822020">10445257450000152605202684822020</a>
       </div>
