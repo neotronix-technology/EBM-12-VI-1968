@@ -7,6 +7,8 @@
 
 Шаг 2. Написание и развертывание контракта (Без программирования)  
 Для быстрого создания токена с фиксированной эмиссией удобно использовать сервисы-генераторы, такие как SmartContracts Token Generator https://www.smartcontracts.tools/token-generator/create/zksync/:  
+https://remix.ethereum.org/#lang=en&optimize&runs=200&evmVersion  
+https://wizard.openzeppelin.com/  
 1. Перейдите на сайт генератора и выберите сеть ZKsync Era.  
 2. Задайте базовые параметры вашего токена:  
 Name (название — например, MyToken).  
