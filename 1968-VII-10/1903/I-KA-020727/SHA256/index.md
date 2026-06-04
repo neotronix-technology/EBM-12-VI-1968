@@ -25,7 +25,7 @@ I-КА № 020727
 RWA SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
 УИП(УПНО) <a href="/EBM-12-VI-1968/cheque/#10445257450000152605202684822020">10445257450000152605202684822020</a></div>
 
-<div class="box-container-" style="background-color:#e6edc5; border: 1px solid black;">
+<div class="box-container" style="background-color:#e6edc5; border: 1px solid black;">
 <div style="display:flex; flex-wrap:wrap; align-items: flex-end; padding:20px;">
   <div class="box" style="border: 1px solid black; float:left;">
     <div style="text-align:center; text-transform:uppercase; margin-bottom:10px;">Свидетельство о рождении</div>
