@@ -1,21 +1,6 @@
 <html>
-<style type="text/css">
-	@media (min-width: 768px) {
-    .box {
-        width: 50%; /* Блоки занимают ровно половину экрана */
-    }
-}
-.font-red {
-  font-style:;
-color: #800000;
-}
-.font-violet {
-color: #572d87;
-  font-style: italic;
-  font-weight: bold;
-  font-weight: 700;
-}
-    </style>
+<link href="/EBM-12-VI-1968/css/style.css" rel="stylesheet" type="text/css">
+<style type="text/css"></style>
 <body>
 <p><a href="https://normativ.kontur.ru/document?moduleId=1&documentId=1312" target="_blank">Декларация прав и свобод человека и гражданина. РСФСР, от 22 ноября 1991 года N 1920-I</a>  
 В соответствии с Всеобщей Декларацией прав человека, принятой и провозглашенной Генеральной Ассамблеей ООН 10 декабря 1948 года, Декларацией прав и свобод человека принятой 05 сентября 1991 года № 2393-I съездом народных депутатов СССР, постановлением Верховного Совета РСФСР от 22 ноября 1991 года N 1920-I «О Декларации прав и свобод человека и гражданина». 
