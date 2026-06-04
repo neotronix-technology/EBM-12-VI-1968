@@ -1,4 +1,10 @@
-@media (min-width: 768px) {
+@media (min-width: 768px) 
+{
+  .box-container {
+    width: 768px; /* Родительский контейнер */
+  }
+}
+{
   .box {
     width: 50%; /* Занимает 50% от родительского контейнера */
   }
