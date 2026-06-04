@@ -1,6 +1,20 @@
 body {
-  font-family: "Segoe UI", Helvetica, Arial, sans-seriff;
-  color: #333333;
-  font-size: 1.0em;
-  line-height:1.4;
+font-family: "Segoe UI", Trebuchet, Arial, Helvetica, sans-serif, "Times New Roman";
+font-size: 17px;
+line-height:1.4em;
+color: #333;
+width:80%;
+display:;
+margin:0 auto;
+margin-top:20px;
+}
+.font-red {
+  font-style: italic;
+color: #800000;
+}
+.font-violet {
+color: #572d87;
+  font-style: italic;
+  font-weight: bold;
+  font-weight: 700;
 }
