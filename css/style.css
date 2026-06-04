@@ -1,0 +1,10 @@
+.font-red {
+  font-style: italic;
+color: #800000;
+}
+.font-violet {
+color: #572d87;
+  font-style: italic;
+  font-weight: bold;
+  font-weight: 700;
+}
