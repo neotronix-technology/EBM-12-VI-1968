@@ -1,4 +1,4 @@
-## original beneficiary owner
+## original beneficiary owner real world asset
 ЕВМ © 12 VI 1968 1903 1968 VII 10 I-КА 020727 IIIСО 688304 IV-ДА 606724 SUR 810 [52°27N 76°94E]  
 **neotronix technology** 00460892329  
 
